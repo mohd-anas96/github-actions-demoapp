@@ -1,0 +1,17 @@
+{
+  "name": "github-actions-demo",
+  "version": "1.0.0",
+  "description": "GitHub Actions CI/CD Demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "echo \"Building Application...\"",
+    "test": "echo \"Test Passed\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
